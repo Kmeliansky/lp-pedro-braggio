@@ -1,6 +1,6 @@
-# 🚀 Nome do Projeto
+# 🚀 Pedro Braggio - Psicanalista e Consultor Financeiro Especializado
 
-Breve descrição do projeto, explicando o que é a landing page, seu objetivo e público-alvo.
+Desenvolvimento de uma landing page para um pscanalista e consultor financeiro especializado. O projeto deve ser leve e performatico com foco em alta conversão dos principais serviços oferecidos
 
 Exemplo:
 > Uma landing page moderna desenvolvida para promover o curso de marketing digital "Venda Mais com Estratégia". Otimizada para conversão, responsiva e com foco em usabilidade.
