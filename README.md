@@ -14,7 +14,7 @@ Se tiver um link de preview ou print:
 - 🔗 [Acesse a landing page aqui](https://m.pedrobraggio.com.br/)
 - Ou veja a prévia abaixo:
 
-![Protótipo no figma](caminho/para/imagem.png)
+![Protótipo no figma](https://www.figma.com/design/fCbhixXdw8sHPP0ynRehnj/Landing-Pages-para-Consultorias?node-id=0-1&t=v4Unpyt5bpnlZ1X1-1)
 
 ---
 
@@ -30,7 +30,7 @@ Se tiver um link de preview ou print:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seuusuario/nome-do-repo.git
+git clone https://github.com/Kmeliansky/lp-pedro-braggio.git
 
 # Acesse a pasta do projeto
 cd nome-do-repo
