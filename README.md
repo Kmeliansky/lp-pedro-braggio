@@ -19,7 +19,7 @@ Se tiver um link de preview ou print:
 
 - HTML5
 - CSS3
-- Ferramentas: Figma (design), Git, Hostinguer
+- Ferramentas: Figma (design), Git, Hostinger
 
 ---
 
