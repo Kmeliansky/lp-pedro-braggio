@@ -11,19 +11,18 @@ Exemplo:
 
 Se tiver um link de preview ou print:
 
-- 🔗 [Acesse a landing page aqui](https://seuprojeto.vercel.app)
+- 🔗 [Acesse a landing page aqui](https://m.pedrobraggio.com.br/)
 - Ou veja a prévia abaixo:
 
-![Preview da landing page](caminho/para/imagem.png)
+![Protótipo no figma](caminho/para/imagem.png)
 
 ---
 
 ## ⚙️ Tecnologias Utilizadas
 
 - HTML5
-- CSS3 (ou Tailwind / Bootstrap, se usar)
-- JavaScript (ou frameworks como React/Vue, se aplicável)
-- Ferramentas: Figma (design), Git, Vercel/Netlify
+- CSS3
+- Ferramentas: Figma (design), Git, Hostinguer
 
 ---
 
@@ -36,4 +35,4 @@ git clone https://github.com/seuusuario/nome-do-repo.git
 # Acesse a pasta do projeto
 cd nome-do-repo
 
-# (Se for um projeto estático, só abra com Live Server ou algum servidor local)
+#abra com Live Server ou algum servidor local
